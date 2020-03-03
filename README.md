@@ -1,0 +1,29 @@
+# Myron R. Schippers Jr Change Log - March 2020
+
+### Overview
+This is a personal changelog of my updates. Not everything is code. This is meant to create visability around the behaviors and habits for myself & my students. Note that this log is starting as of March 2nd, 2020 and it is not a full description of what I am doing just some of the goals I am trying to meet. 
+
+### Main Categories
+- 🍎- Eating!
+- 🖊- Writing
+- 💻- Code - Building / Learning
+- 📚- Reading
+
+### Goals
+- 🍎- Eating Absolutely No Deep Fried Foods
+- 📚- Reading - Every Day, Even if it's just manga
+- 💻- Code - Building or Learning:
+  - Manga Web Scaper *[build]*
+  - Calorie Tracker (Phase 1) *[build]*
+  - TS/React *[learn]*
+  - React Native *[learn]* - Every Day
+
+---
+
+
+#### Monday, March 2nd
+- 📚 Reading, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229)
+
+#### Monday, March 3rd
+- 📚 Reading, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229)
+- 💻 Code, [Manga We Scrapper](https://github.com/myronschippers/manga-web-scraper)
