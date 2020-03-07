@@ -43,3 +43,8 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 🍎 No Deep Fried Food Today (the battle continues)
 - 📚 Reading, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229)
 - 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
+
+#### Saturday, March 8th
+- 🍎 No Deep Fried Food Today (the battle continues)
+- 📚 Reading, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229)
+- 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
