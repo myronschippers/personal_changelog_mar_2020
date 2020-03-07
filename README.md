@@ -24,17 +24,22 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 #### Monday, March 2nd
 - 📚 Reading, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229)
 
-#### Monday, March 3rd
+#### Tuesday, March 3rd
 - 📚 Reading, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229)
 - 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
 
-#### Monday, March 4th
+#### Wednesday, March 4th
 - 🍎 No Deep Fried Food Today (yay!?!)
 - 📚 Reading, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229)
 - 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
 
-#### Monday, March 5th
+#### Thursday, March 5th
 - 🍎 No Deep Fried Food Today (the battle continues)
 - 📚 Reading, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229)
 - 📚 Reading, [Solo Leveling](https://manganelo.com/manga/pn918005)
+- 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
+
+#### Friday, March 6th
+- 🍎 No Deep Fried Food Today (the battle continues)
+- 📚 Reading, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229)
 - 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
