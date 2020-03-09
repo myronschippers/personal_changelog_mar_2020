@@ -44,7 +44,12 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 📚 Reading, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229)
 - 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
 
-#### Saturday, March 8th
+#### Saturday, March 7th
 - 🍎 No Deep Fried Food Today (the battle continues)
 - 📚 Reading, [Tales of Demons and Gods](https://manganelo.com/manga/hyer5231574354229)
+- 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
+
+#### Sunday, March 8th
+- 🍎 No Deep Fried Food Today (the battle continues)
+- 📚 Reading, [Hiraheishi Wa Kako O Yumemiru](https://manganelo.com/manga/hiraheishi_wa_kako_o_yumemiru)
 - 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
