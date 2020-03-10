@@ -53,3 +53,7 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 - 🍎 No Deep Fried Food Today (the battle continues)
 - 📚 Reading, [Hiraheishi Wa Kako O Yumemiru](https://manganelo.com/manga/hiraheishi_wa_kako_o_yumemiru)
 - 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
+
+#### Monday, March 9th
+- 🍎 No Deep Fried Food Today (the battle continues)
+- 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
