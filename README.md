@@ -85,3 +85,7 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 #### Monday, March 16th
 - 🍎 No Deep Fried Food Today (the battle continues)
 - 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
+
+#### Tuesday, March 17th
+- 🍎 No Deep Fried Food Today (the battle continues)
+- 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
