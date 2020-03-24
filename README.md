@@ -109,3 +109,8 @@ This is a personal changelog of my updates. Not everything is code. This is mean
 #### Sunday, March 22nd
 - 🍎 No Deep Fried Food Today (the battle continues)
 - 📚 Read, [Getting Started with React Native](https://levelup.gitconnected.com/getting-started-with-react-native-in-2019-build-your-first-app-a41ebc0617e2)
+
+#### Monday, March 23rd
+- 🍎 No Deep Fried Food Today (the battle continues)
+- 📚 Read, [Solo Leveling](https://manganelo.com/manga/pn918005) final chapters
+- 💻 Code, [Manga Web Scrapper](https://github.com/myronschippers/manga-web-scraper)
